@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a highly skilled and experienced Senior Angular Expert with a proven track record of designing and developing robust web applications. With extensive expertise in Angular and a deep understanding of front-end development, Jennifer excels in creating dynamic and user-centric solutions that drive business success.
+I am a highly skilled and experienced Full Stack Developer with a proven track record of designing and developing robust web applications. With extensive expertise in Angular and a deep understanding of front-end development, Jennifer excels in creating dynamic and user-centric solutions that drive business success.
 
 Skills:
-- Proficient in Angular, TypeScript, HTML5, CSS3  
+- Proficient in Angular, React TypeScript, HTML5, CSS3  
 - Extensive experience in building scalable and responsive web applications  
 - Strong knowledge of front-end architecture and design patterns  
 - Expertise in RESTful APIs, JSON, and data integration  
